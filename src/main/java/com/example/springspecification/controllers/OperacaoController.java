@@ -1,8 +1,10 @@
-package com.example.springspecification;
+package com.example.springspecification.controllers;
 
-import com.fasterxml.jackson.annotation.JsonFormat;
+import com.example.springspecification.models.entities.Operacao;
+import com.example.springspecification.repositories.OperacaoRepository;
+import com.example.springspecification.services.especifications.OperacaoSearch;
+import com.example.springspecification.services.OperacaoService;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.data.repository.query.Param;
 import org.springframework.format.annotation.DateTimeFormat;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package com.example.springspecification;
+package com.example.springspecification.models.entities;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.databind.PropertyNamingStrategy;

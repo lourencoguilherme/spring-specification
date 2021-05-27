@@ -1,4 +1,4 @@
-package com.example.springspecification;
+package com.example.springspecification.services.especifications;
 
 import org.springframework.data.jpa.domain.Specification;
 

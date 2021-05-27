@@ -1,4 +1,4 @@
-package com.example.springspecification;
+package com.example.springspecification.services.especifications;
 
 import lombok.Builder;
 import lombok.Data;
